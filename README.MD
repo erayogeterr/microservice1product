@@ -1,4 +1,4 @@
-PostgreSQL + Heroku + Postman + Microservice Architecture + Spring Boot
+PostgreSQL + Heroku + Postman + Microservice Architecture + Spring Boot + Gradle
 
 # Microservice Product
 
